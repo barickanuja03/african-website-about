@@ -1,0 +1,29 @@
+@media (max-width:1110px)
+{
+    body,html{
+        font-size:8px;
+        overflow-x: hidden;
+    }
+    .PARAGRAPH{
+        padding:4rem 4rem;
+    }
+    .first-paragraph{
+        font-size:1.5rem;
+    }
+    .second-paragraph{
+        font-size:1.5rem;
+    }
+    .third-paragraph{
+        font-size:1.5rem;
+    }
+} 
+@media (max-width:574px)
+{
+    body,html{
+       font-size:6px;
+       overflow: visible;
+    }
+    .PARAGRAPH{
+        padding:12rem 12rem;
+    }
+} 
